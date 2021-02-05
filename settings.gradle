@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Calc_Article_TAB_ISIP_19"
